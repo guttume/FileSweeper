@@ -1,0 +1,10 @@
+{
+    "log_file": "file_sweeper.log",
+    "locations": [
+        {
+            "path": "/home/amit/viper",
+            "days": 180,
+            "action": "delete"
+        }
+    ]
+}
